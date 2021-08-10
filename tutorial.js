@@ -80,4 +80,36 @@ console.log(myArray)
 myArray.unshift(["Quincy", 1])
 console.log(myArray)
 
-//
+//functions
+
+function minusSeven(num) {
+
+    return num -7;
+
+}
+
+console.log(minusSeven (10));
+
+function timesFive(num) {
+
+    return num * 5;
+}
+
+console.log(timesFive(5));
+
+
+let sum = 0;
+
+function addThree(sum) {
+    sum += 3;
+}
+
+console.log(addThree(sum))
+
+function addFive(sum) {
+    sum += 5;
+}
+
+console.log(addFive(sum))
+
+
